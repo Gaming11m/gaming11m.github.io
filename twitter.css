@@ -1,0 +1,96 @@
+.header-twitter {
+    background: #fff;
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    position: relative;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.header-twitter img {
+    margin-top: 20px;
+    width: 55;
+}
+.box-twitter {
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    overflow: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+.txt-login-twitter {
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial, sans-serif;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+.input-box-twitter {
+    background: #ffffff;
+	width: 90%;
+	height: 40px;
+	margin-top: 30px;
+	padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+	font-size: 12px;
+	font-family: arial, sans-serif;
+	text-align: left;
+	position: relative;
+	border: 1px solid #d3d3d3;
+	border-radius: 5px;
+	outline: none;
+	z-index: 2;
+}
+
+.input-box-twitter input {
+	background: transparent;
+	width: 100%;
+	height: auto;
+	color: #000;
+	font-size: 14px;
+	font-family: arial, sans-serif;
+	text-align: left;
+	position: relative;
+	border: none;
+	outline: none;
+    z-index: 2;
+    padding: 5px 0;
+}
+.btn-login-twitter {
+    background: #5181b8;
+    width: 90%;
+    height: auto;
+    padding: 14px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: arial, sans-serif;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    letter-spacing: 1;
+    margin-top: 30px;
+}
+.footer-menu-twitter {
+    width: auto;
+    height: auto;
+    margin: 0.5%;
+    margin-top: 7%;
+    color: #1da1f2;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    display: inline-block;
+}
+.bulet {
+    color: #000;
+    font-size: 8px;
+}
+.aktifnya {
+    color: #1da1f2;
+    border-bottom: 2px solid #1da1f2;
+}
